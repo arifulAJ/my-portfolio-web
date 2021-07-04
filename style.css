@@ -84,7 +84,7 @@ border-radius: 5px;
     border-radius: 10px;
  
 
-    border-image: linear-gradient(tomato, orange)5 ;
+    border-image: linear-gradient(tomato, orange)15 ;
 
 }
 #third-right{
@@ -93,6 +93,6 @@ border-radius: 5px;
 border-radius: 10px;
     width: 50%;
     border-left: 10px solid;
-    border-image: linear-gradient(blue,cyan )5;
+    border-image: linear-gradient(blue,cyan )72;
     margin: 3% 3%;
 }
