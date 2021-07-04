@@ -8,7 +8,7 @@ body{
     display: flex;
     margin-bottom: 100px;
     width: 100%;
-    background-image: url(/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
  
@@ -44,7 +44,7 @@ border-radius: 5px;
    
     display: flex;
     padding: 30px;
-    background-image: url(/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat:no-repeat;
     background-position: right;
 
@@ -73,7 +73,7 @@ border-radius: 5px;
 #content-handeler{
     display: flex;
  
-    background-image: url(/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     text-align: justify;
 }
