@@ -8,7 +8,7 @@ body{
     display: flex;
     margin-bottom: 100px;
     width: 100%;
-    background-image: url(img/top-banner.png);
+    background-image: url(/img/top-banner.png);
     background-repeat: no-repeat;
 }
  
@@ -25,10 +25,8 @@ body{
 
     
 }
-.main-picter{
-    
-}
-#like{  background-color:rgb(255, 99, 71);
+
+#like{  background-color:rgb(255, 99, 71)4;
     text-decoration: none;
 font-size: 20px;
 font-weight: 700;
@@ -86,7 +84,7 @@ border-radius: 5px;
     border-radius: 10px;
  
 
-    border-image: linear-gradient(tomato, orange) ;
+    border-image: linear-gradient(tomato, orange)5 ;
 
 }
 #third-right{
@@ -95,6 +93,6 @@ border-radius: 5px;
 border-radius: 10px;
     width: 50%;
     border-left: 10px solid;
-    border-image: linear-gradient(blue,cyan );
+    border-image: linear-gradient(blue,cyan )5;
     margin: 3% 3%;
 }
