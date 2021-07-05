@@ -8,7 +8,7 @@ body{
     display: flex;
     margin-bottom: 100px;
     width: 100%;
-    background-image: url(/img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
 }
  
